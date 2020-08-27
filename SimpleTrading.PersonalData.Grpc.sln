@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swisschain.PersonalData.Grpc", "Swisschain.PersonalData.Grpc\Swisschain.PersonalData.Grpc.csproj", "{FEE1B8CF-ED3C-4A5F-81B5-B4C0D08748BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swisschain.PersonalData.Server", "Swisschain.PersonalData.Server\Swisschain.PersonalData.Server.csproj", "{365A26EB-B716-4FF5-8298-69A53A3B53E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swisschain.PersonalData.Postgres", "Swisschain.PersonalData.Postgres\Swisschain.PersonalData.Postgres.csproj", "{AFDB5A89-2D63-4D83-999C-87B46B21D293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE1B8CF-ED3C-4A5F-81B5-B4C0D08748BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE1B8CF-ED3C-4A5F-81B5-B4C0D08748BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE1B8CF-ED3C-4A5F-81B5-B4C0D08748BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE1B8CF-ED3C-4A5F-81B5-B4C0D08748BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365A26EB-B716-4FF5-8298-69A53A3B53E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365A26EB-B716-4FF5-8298-69A53A3B53E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365A26EB-B716-4FF5-8298-69A53A3B53E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365A26EB-B716-4FF5-8298-69A53A3B53E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDB5A89-2D63-4D83-999C-87B46B21D293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDB5A89-2D63-4D83-999C-87B46B21D293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDB5A89-2D63-4D83-999C-87B46B21D293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDB5A89-2D63-4D83-999C-87B46B21D293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
